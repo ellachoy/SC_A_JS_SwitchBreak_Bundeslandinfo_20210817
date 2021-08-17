@@ -1,0 +1,30 @@
+.style {
+  margin: auto;
+  width: 220px;
+  padding: 50px;
+  background-color: #999;
+  font-family: Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+}
+
+button {
+  background: #333;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+input {
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h4,
+ul > li {
+  color: gray;
+}
